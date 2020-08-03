@@ -2,7 +2,7 @@ About:
 -----         
               1.This project is about a news web app which shows you news headlines of various news categories.
               
-              2.This web app gives you facility to se full article by clicking a button. 
+              2.This web app gives you facility to see full article by clicking a button. 
                 If you find it important to store the article for future reading then you can store 
                 the article in your account.
                 
