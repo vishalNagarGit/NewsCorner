@@ -1,3 +1,16 @@
+About:     
+-----         
+              1.This project is about a news web app which shows you news headlines of various news categories.
+              
+              2.This web app gives you facility to se full article by clicking a button. 
+                If you find it important to store the article for future reading then you can store 
+                the article in your account.
+                
+              3.You can create an account and by default you keep logged in for seven days.
+                 After logging in you can se your saved articles.
+                 
+              4.If saved article is no more relevent then you can delete it by pressing delete button.
+              
 
 Directory info:
 ---------------
@@ -17,7 +30,7 @@ for running complete project
   
 4.The application use mongoDB for database. So install mongoDB and run before funning application using command mongod.(now your database server will be running on port 27017)  
 
-4.Now run server code using node app.js
+5.Now run server code using node app.js
   
 
 For running react in development phase
@@ -29,4 +42,4 @@ For running react in development phase
 3.run api server (news_client) and database server before running development server
 
 4.To to run whole application form api server, build the react project using -npm run build command and replace all files in news_api/public folder with files in 
-  news_client/build folder. Now it is a complete project same as news_api was given initially.  
+        news_client/build folder. Now it is a complete project same as news_api was given initially.  
