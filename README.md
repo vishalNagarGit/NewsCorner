@@ -26,7 +26,7 @@ for running complete project
 
 2.Change directory to news-api and download all dependencies using npm install
 
-3.Get api key form news api. Create a file .env in root directory (news_api) and put API_KEY=<your api key> inside it. 
+3.Get api key form news api. Create a file .env in root directory (news_api) and put API_KEY=\<your api key\> inside it. 
   
 4.The application use mongoDB for database. So install mongoDB and run before funning application using command mongod.(now your database server will be running on port 27017)  
 
